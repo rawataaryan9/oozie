@@ -1,0 +1,8 @@
+{
+  "OOZIE_URL" : "oozie_url",
+  "OOZIE_WORKFLOW_PATH" : "oozie_wfl_path",
+  "OOZIE_NAMENODE" : "oozie_namenode",
+  "OOZIE_JOBTRACKER" : "oozie_jobtracker",
+  "OOZIE_OUTPUT_DIR" : "oozie_output_dir"
+
+}

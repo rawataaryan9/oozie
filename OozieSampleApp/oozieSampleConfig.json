@@ -1,0 +1,6 @@
+{
+    "oozie.wf.application.path" : "",
+    "nameNode" : "",
+    "jobTracker" : "",
+    "outputDir" : ""
+}
